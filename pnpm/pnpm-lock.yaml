@@ -1,0 +1,11 @@
+dependencies:
+  jquery: 3.5.1
+lockfileVersion: 5.2
+packages:
+  /jquery/3.5.1:
+    dev: false
+    resolution:
+      integrity: sha1-17TQjhv9uGrS8aPQOeoXMEcXq7U=
+      tarball: jquery/download/jquery-3.5.1.tgz?cache=0&sync_timestamp=1611712326154&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fjquery%2Fdownload%2Fjquery-3.5.1.tgz
+specifiers:
+  jquery: ^3.5.1
